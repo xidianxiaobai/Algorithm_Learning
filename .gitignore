@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea
+.project
+.settings/
+.prefs
+.pydevproject
+.idea/
+.DS_Store
+.cache
+*.pyc
+*.html
+*.xlm
